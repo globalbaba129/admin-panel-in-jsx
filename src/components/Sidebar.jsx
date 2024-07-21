@@ -28,6 +28,16 @@ const Navbar = () => {
       <li>
         <Link to="/Inventory">Inventory</Link>
       </li>
+      <li>
+        <Link to="/Admin-Setting">AdminSettings</Link>
+      </li>
+      <li>
+        <Link to="/POS">POS</Link>
+      </li>
+      <li>
+        <Link to="/CRM">CRM</Link>
+      </li>
+    
     
     </ul>
   );
